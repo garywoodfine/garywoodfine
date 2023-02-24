@@ -1,1 +1,7 @@
 # Hi I'm Gary
+
+
+
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=garywoodfine&show_icons=true&theme=dark" alt="Gary Woodfine" />
+<div/>
