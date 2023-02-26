@@ -18,10 +18,10 @@
        
        </div>
        <div class="col-sm-2">
-           * Law & Order
-           * Property Management 
-           * Civil Engineering & Construction
-           * Energy Management & Monitoring
+       * Law & Order
+       * Property Management
+       * Civil Engineering & Construction
+       * Energy Management & Monitoring
        </div>
      </div>
   </div>
