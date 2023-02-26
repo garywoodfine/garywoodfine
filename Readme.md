@@ -7,27 +7,15 @@
 </picture>
 
  A professional UK Based Freelance/Contract Software Developer with considerable experience of collaborating on software projects across a number of varied business domains including;
- 
- <div class="instruction">
-    <div class="row">
-      <div class="col-sm-1">
-      
-      * E-commerce
-      * Financial Services
-      * Public Services
-      * Defence
-      
-      </div>
-       <div class="col-sm-2">
-       
-       * Law & Order
-       * Property Management
-       * Civil Engineering & Construction
-       * Energy Management & Monitoring
-       
-       </div>
-     </div>
-  </div>
+
+* E-commerce
+* Financial Services
+* Public Services
+* Defence
+* Law & Order
+* Property Management
+* Civil Engineering & Construction
+* Energy Management & Monitoring
  
  
 
