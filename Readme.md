@@ -11,10 +11,10 @@
  <div class="instruction">
     <div class="row">
       <div class="col-sm-1">
-        * E-commerce
-        * Financial Services
-        * Public Services
-        * Defence
+      * E-commerce
+      * Financial Services
+      * Public Services
+      * Defence
        
        </div>
        <div class="col-sm-2">
