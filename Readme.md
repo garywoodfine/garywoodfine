@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/garywoodfine-logo-light.png">
   <source media="(prefers-color-scheme: light)" srcset="images/garywoodfine-logo-dark.png">
-  <img alt="Gary Woodfine - Opinionated Software Developer" src="images/garywoodfine-logo-dark.png">
+  <img alt="Gary Woodfine - Opinionated Software Developer" src="images/garywoodfine-logo-light.png">
 </picture>
 
 
