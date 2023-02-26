@@ -12,13 +12,14 @@
 const GaryWoodfine = {
     work: "Freelance/Contract Software Developer",
     home: "Wiltshire, United Kingdom",
-    code: ["C#", "Typescript", "Javascript", "CSS", "html", "Rust"],
+    code: ["C#", "Typescript", "Javascript", "rust", "dart", "CSS", "html"],
     technologies: {
         backEnd: [".net", "NodeJS", "rust"],
-        frontEnd: ["vue", "nuxt", "hapi"],
+        frontEnd: ["vue", "nuxt", "hapi", "flutter"],
         build: ["Cake", "TeamCity", "Github Actions", "jenkins", "msbuild"],
         devOps: ["kubernetes", "helm", "docker", "terraform"],
-        databases: ["PostgreSql", "mssql", "mongo"]
+        databases: ["PostgreSql", "mssql", "mongo"],
+        os: ["linux"]
     },
     architecture: ["Microservices", "Serverless Architecture"],
     currentFocus: "Event Driven Microservices ",
