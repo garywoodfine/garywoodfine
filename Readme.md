@@ -7,17 +7,27 @@
 </picture>
 </a>
 
- A professional UK Based Freelance/Contract Software Developer with considerable experience of collaborating on software projects across a number of varied business domains including;
-
-* E-commerce
-* Financial Services
-* Public Services
-* Defence
-* Law & Order
-* Property Management
-* Civil Engineering & Construction
-* Energy Management & Monitoring
+ ```javascript
  
+const GaryWoodfine = {
+    work: "Freelance/Contract Software Developer",
+    home: "Wiltshire, United Kingdom",
+    code: ["C#", "Typescript", "Javascript", "CSS", "html", "Rust"],
+    technologies: {
+        backEnd: [".net", "NodeJS", "rust"],
+        frontEnd: ["vue", "nuxt", "hapi"],
+        build: ["Cake", "TeamCity", "Github Actions", "jenkins", "msbuild"],
+        devOps: ["kubernetes", "helm", "docker", "terraform"],
+        databases: ["PostgreSql", "mssql", "mongo"]
+    },
+    architecture: ["Microservices", "Serverless Architecture"],
+    currentFocus: "Event Driven Microservices ",
+    hobbies: ["Hiking", "Drums", "Guitar", "Blogger"]
+};
+
+console.info(GaryWoodfine);
+
+ ```
  
 
 <div>
