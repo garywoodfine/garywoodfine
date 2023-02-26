@@ -9,7 +9,7 @@
  A professional UK Based Freelance/Contract Software Developer with considerable experience of collaborating on software projects across a number of varied business domains including;
  
  
- <table style="width: 100%; border: none">
+ <table style="width: 100%; border: none;">
  <tr>
  <td>
  
