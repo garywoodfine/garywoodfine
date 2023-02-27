@@ -18,10 +18,10 @@ const GaryWoodfine = {
         frontEnd: ["vue", "nuxt", "hapi", "flutter"],
         build: ["Cake", "TeamCity", "Github Actions", "jenkins", "msbuild"],
         devOps: ["kubernetes", "helm", "docker", "terraform"],
-        databases: ["PostgreSql", "mssql", "mongo"],
+        databases: [ "PostgreSql", "mssql", "mongo" ],
         os: ["linux"]
     },
-    architecture: ["Microservices", "Serverless Architecture"],
+    architecture: ["Microservices", "Serverless Architecture", "Cloud Native"],
     currentFocus: "Event Driven Microservices ",
     hobbies: ["Hiking", "Drums", "Guitar", "Blogger"]
 };
